@@ -1,11 +1,11 @@
  ## ⛩️ Animeverse — Mobile Anime Explorer App
-## 🧑‍🎓 Identitas Mahasiswa
-Keterangan	Detail
-Nama	Marschell Fideon Damanik
-NIM	231401135
-Laboratorium	Lab Pemrograman Mobile 2 (Pemmob 2)
-💻 Project Description
 
+## Nama :	Marschell Fideon Damanik
+## NIM  :	231401135
+Laboratorium	Lab Pemrograman Mobile 2 (Pemmob 2)
+
+
+## 💻 Project Description
 Animeverse adalah aplikasi mobile yang dirancang untuk membantu pengguna menjelajahi dan mengelola daftar anime secara interaktif, cepat, dan terstruktur.
 Aplikasi dibuat menggunakan Flutter dan terhubung dengan API eksternal untuk menghadirkan data anime terbaru.
 
