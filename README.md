@@ -10,10 +10,10 @@ Animeverse adalah aplikasi mobile yang dirancang untuk membantu pengguna menjela
 Aplikasi dibuat menggunakan Flutter dan terhubung dengan API eksternal untuk menghadirkan data anime terbaru.
 
 ## 🌟 Fitur Utama
-##📋 Daftar Anime
+## 📋 Daftar Anime
 Menampilkan list anime lengkap dengan gambar, judul, dan rating.
 
-📖 ## Detail Anime
+ ## 📖 Detail Anime
 Setiap anime menyertakan informasi lengkap seperti:
 Judul
 Deskripsi singkat
@@ -21,8 +21,8 @@ Rating
 Sinopsis lengkap
 Genre
 
-🎭 Klasifikasi Genre
+## 🎭 Klasifikasi Genre
 Pengguna dapat melakukan filtering anime berdasarkan genre yang tersedia.
 
-⭐ Favorit
+## ⭐ Favorit
 Anime dapat ditambahkan ke daftar favorit pengguna untuk ditonton nanti.
