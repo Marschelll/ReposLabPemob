@@ -1,7 +1,4 @@
-⭐ Animeverse ⛩️
-
-A Mobile Anime Explorer App Built with Love
-
+⛩️ Animeverse — Mobile Anime Explorer App
 🧑‍🎓 Identitas Mahasiswa
 Keterangan	Detail
 Nama	Susena Yudha Wijaya
@@ -9,50 +6,32 @@ NIM	231401109
 Laboratorium	Lab Pemrograman Mobile 2 (Pemmob 2)
 💻 Project Description
 
-Animeverse adalah aplikasi mobile yang dirancang untuk membantu pengguna menjelajahi, mencari, dan mengelola daftar anime secara interaktif.
-Aplikasi ini hadir dengan tampilan modern, navigasi mudah, serta integrasi API yang menyediakan data anime lengkap dan selalu diperbarui.
+Animeverse adalah aplikasi mobile yang dirancang untuk membantu pengguna menjelajahi dan mengelola daftar anime secara interaktif, cepat, dan terstruktur.
+Aplikasi dibuat menggunakan Flutter dan terhubung dengan API eksternal untuk menghadirkan data anime terbaru.
 
 🌟 Fitur Utama
-📜 1. Daftar Anime
+📋 Daftar Anime
 
-Menampilkan list anime yang lengkap dan informatif.
+Menampilkan list anime lengkap dengan gambar, judul, dan rating.
 
-🧾 2. Detail Anime
+📖 Detail Anime
 
-Setiap anime dilengkapi informasi seperti:
+Setiap anime menyertakan informasi lengkap seperti:
 
 Judul
 
-Deskripsi Singkat
+Deskripsi singkat
 
 Rating
 
-Sinopsis Lengkap
+Sinopsis lengkap
 
-🎭 3. Klasifikasi Genre
+Genre
 
-Memungkinkan pengguna menyaring dan menemukan anime berdasarkan genre favorit mereka.
+🎭 Klasifikasi Genre
 
-❤️ 4. Manajemen Favorit
+Pengguna dapat melakukan filtering anime berdasarkan genre yang tersedia.
 
-Pengguna dapat menyimpan anime ke daftar favorit pribadi untuk akses cepat.
+⭐ Favorit
 
-🔑 Autentikasi Pengguna
-
-Animeverse menyediakan dua metode login yang mudah dan aman:
-
-🔐 Akun Lokal
-
-Login menggunakan email & password yang dibuat pengguna.
-Pengguna akun lokal dapat mengubah password kapan saja.
-
-🔵 Google Sign-In
-
-Login cepat menggunakan akun Google.
-Catatan: fitur ubah password tidak tersedia untuk pengguna Google Sign-In.
-
-⚙️ Sumber Data (API)
-
-Aplikasi ini memanfaatkan Jikan API, yaitu unofficial API dari MyAnimeList yang menyediakan data anime lengkap, termasuk rating, genre, dan sinopsis.
-
-🔗 Jikan API: https://jikan.moe/
+Anime dapat ditambahkan ke daftar favorit pengguna untuk ditonton nanti.
